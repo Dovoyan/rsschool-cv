@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://Dovoyan.github.io/rsschool-cv/cv
