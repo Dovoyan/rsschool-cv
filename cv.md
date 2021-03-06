@@ -19,3 +19,13 @@ i know a little js, html, css, java, c#, assembler, PHP
 function Summ(x,y){ return x + y;} console.log(sum(1,2));
 
 ### Experience
+
+I work for a website development firm
+
+### Education
+
+Molodechno Trade and Economic College
+
+### English
+
+A1
