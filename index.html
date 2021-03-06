@@ -12,7 +12,30 @@
 
     </header>
 
-    
+   
+    <div class="codeEx">
+        <h3 class="codeExTitle">Code examples</h3>
+        <code>
+            function prefill(n, v) {<Br>
+
+            if(isNaN(n) || n === Infinity || n === -Infinity || n<0 || (typeof n === "boolean")){<Br>
+                throw new TypeError(n+" is invalid") <Br>
+            
+            }else if(!(Number.isInteger(+n))){<Br>
+                throw new TypeError(n+" is invalid") <Br>
+            }
+            
+            else{ let arr = [];<Br>
+            for(let i=0;i<n;i++){<Br>
+                
+                arr[i]=v;<Br>
+            }<Br>
+            return arr;<Br>
+                } <Br>
+        
+        }<Br>
+        </code>
+    </div>
 
 
     <footer>
