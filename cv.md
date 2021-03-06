@@ -13,3 +13,9 @@ I want to become a professional in programming. I am a good learner and can lear
 ### Skills
 
 i know a little js, html, css, java, c#, assembler, PHP
+
+### Code examples
+
+function Summ(x,y){ return x + y;} console.log(sum(1,2));
+
+### Experience
