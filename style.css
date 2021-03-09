@@ -1,5 +1,7 @@
 body {
   margin: 15px 400px 0 400px;
+  width: 1440px;
+  margin: auto;
 }
 
 a {
