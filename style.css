@@ -85,3 +85,8 @@ footer img {
 .icons {
   color: skyblue;
 }
+
+.centrir {
+  width: 1140px;
+  margin: 0 auto;
+}
