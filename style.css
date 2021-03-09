@@ -1,0 +1,94 @@
+body {
+  margin: 15px 400px 0 400px;
+  width: 1440px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+  color: #000000;
+  font-size: 14px;
+}
+
+h1 {
+  margin: 0;
+}
+
+header img {
+  width: 120px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icons p {
+  padding-left: 10px;
+}
+
+.foto {
+  width: 400px;
+}
+
+.main {
+  padding-top: 100px;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.textAll {
+  display: flex;
+
+  width: 100%;
+  flex-direction: column;
+}
+
+.SummaryTitle {
+  display: flex;
+  justify-content: center;
+}
+
+.SkillsTitle {
+  display: flex;
+  justify-content: center;
+}
+
+.AboutMe {
+  padding-left: 40px;
+}
+
+.codeExTitle {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-between;
+}
+
+footer img {
+  width: 100px;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+}
+
+.social_name {
+  padding-left: 10px;
+}
+
+.icons {
+  color: skyblue;
+}
+
+.centrir {
+  width: 1140px;
+  margin: 0 auto;
+}
